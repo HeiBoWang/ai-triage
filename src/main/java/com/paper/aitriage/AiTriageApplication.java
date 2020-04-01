@@ -8,6 +8,7 @@ public class AiTriageApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AiTriageApplication.class, args);
+
     }
 
 }

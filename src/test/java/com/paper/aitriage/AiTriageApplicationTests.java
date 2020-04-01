@@ -8,6 +8,7 @@ class AiTriageApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
