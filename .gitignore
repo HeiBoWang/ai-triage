@@ -33,3 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/src/test/java/com/paper/aitriage/example/
