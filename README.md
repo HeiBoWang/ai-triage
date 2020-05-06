@@ -7,3 +7,7 @@
 * https://blog.csdn.net/mandagod/article/details/89446473
 * http://www.52nlp.cn/category/text-classification
 * https://eliyar.biz/nlp_chinese_text_classification_in_15mins/
+
+
+### 机器学习知识点
+* tf.data + estimator 加快训练速度
