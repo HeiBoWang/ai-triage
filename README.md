@@ -6,6 +6,8 @@
 * 文本分类算法
 * java 调用模型
 
+### 2. 论文写作步骤
+* 文本分类算法详解 LSTM,WORD2VEC,BERT,textCNN,fastTEXT,
 
 ### 3. 学习资料
 * tensorflow -> tensorflow serving
@@ -13,3 +15,5 @@
 * https://blog.csdn.net/mandagod/article/details/89446473
 * http://www.52nlp.cn/category/text-classification
 * https://eliyar.biz/nlp_chinese_text_classification_in_15mins/
+
+
