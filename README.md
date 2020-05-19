@@ -7,9 +7,14 @@
 * java 调用模型
 
 ### 2. 论文写作步骤
-* 文本分类算法详解 LSTM,WORD2VEC,BERT,textCNN,fastTEXT,
+* 文本分类算法详解： LSTM,WORD2VEC,BERT,textCNN,fastTEXT,WordNet
+* 深度学习必研究算法：XGboost,CatBoost,GBDT,
 
-### 3. 学习资料
+### 3. trick
+* 文本的特征选择方法，主要包括互信息（MI）、文档频数（DF）、卡方检验以及信息增益（IG）等
+
+
+### 4. 学习资料
 * tensorflow -> tensorflow serving
 * https://zhuanlan.zhihu.com/p/88464508
 * https://blog.csdn.net/mandagod/article/details/89446473
